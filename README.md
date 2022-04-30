@@ -5,7 +5,7 @@ Giphy'nin kendi oluşturduğu api ile istediğimiz gif içeriğine erişebiliyor
 > Responsive olmadığı için mobil görüntüde eksiklikler olabilir
 
 ## TODO
-- Responsive Tasarım haline getirilecek[](
+- Responsive Tasarım haline getirilecek
 
 ![SS](https://github.com/HasanHuseyinDemir/Giphy-Api-Project/blob/main/ss.JPG)
 
